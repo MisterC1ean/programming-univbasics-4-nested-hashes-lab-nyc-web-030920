@@ -87,7 +87,7 @@ def adding_matz
                         :languages => ["LISP", "C"]
   }]
                       
-  puts :yukihiro_matsumot 
+  puts :yukihiro_matsumoto
 end
 
 def changing_alan
