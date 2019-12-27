@@ -57,8 +57,8 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-    :programmer_hash[:dennis_ritchie][:languages].to_s
-    #implicitly convert me to a String...but how
+    :programmer_hash[:dennis_ritchie][:languages]
+    
 end
 
 def adding_matz
